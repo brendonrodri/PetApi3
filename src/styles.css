@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: pink;
+}
+@media (max-width: 720px) {
+  body {
+    background: url("https://img.freepik.com/free-vector/cute-colorful-kitten-pow-pattern-design_1017-14710.jpg?w=740&t=st=1654295468~exp=1654296068~hmac=5d9e2e0960bdeb76eb86b362799df4b38d5a4e6f6b7b15861bd42604407367ba");
+    background-size: cover;
+  }
+}
